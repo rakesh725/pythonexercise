@@ -7,13 +7,18 @@ Review this pdf to get an overview on python: https://4techblog.com/wp-content/u
 
 This excercise provides step by step python exercises to learn advance python
 
+# Github
+You are already reading this on github. I would recommend creating your own github account adding your own branch to this repository, I have created Arav directory for you to use.
+
+Learn more about github here: https://docs.github.com/en/get-started/quickstart/hello-world
+
 # Python IDE
 An editor is required to write and run python code. [Pycharm](https://www.jetbrains.com/pycharm/) is the most popular one but in our exercise we will use [VSCode](https://code.visualstudio.com/Download). 
 
 - [Download VSCode]((https://code.visualstudio.com/Download)) 
 - Install [python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
-# Excercise 1: Python script to take user input to add/subtract/multiply/divide
+## Excercise 1: Python script to take user input to add/subtract/multiply/divide
 - Use python input function to take user input 
 - Review exercise_1.py once you have completed your script
 
@@ -49,5 +54,5 @@ As you code your application, keep requirements file updated using following com
 install -U -r requirements.txt
 ````
 
-# Excercise 2:
+## Excercise 2:
 Use venv to run your script from exercise 1
