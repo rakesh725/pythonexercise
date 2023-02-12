@@ -1,0 +1,44 @@
+{
+    "ford": [
+      {
+        "gasoline": [
+          {
+            "model": "F-150"
+          }
+        ],
+        "electric": [
+          {
+            "model": "lightning"
+          }
+        ]
+      }
+    ],
+    "chevy": [
+      {
+        "gasoline": [
+          {
+            "model": "Silverado"
+          }
+        ],
+        "electric": [
+          {
+            "model": "Silverado EV"
+          }
+        ]
+      }
+    ],
+    "dodge": [
+      {
+        "gasoline": [
+          {
+            "model": "Ram"
+          }
+        ],
+        "electric": [
+          {
+            "model": "Ram REV"
+          }
+        ]
+      }
+    ]
+  }
