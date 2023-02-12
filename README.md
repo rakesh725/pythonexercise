@@ -56,3 +56,26 @@ install -U -r requirements.txt
 
 ## Excercise 2:
 Use venv to run your script from exercise 1
+
+## Excercise 3:
+Create JSON file which stores all Make and Model of pick-up trucks available in USA in an array of dictonary. 
+Create a function to return pick-ups by brand, type reading the JSON file
+Write a test for the function
+
+Example:
+````
+pickups =[
+  {
+    "brand": "Ford",
+    "model": "F-150",
+    "type": "Gasoline"
+  },
+  {
+    "brand": "Ford",
+    "model": "Lightning",
+    "type": "Electric"
+  }
+]
+````
+
+
